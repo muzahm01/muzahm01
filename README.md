@@ -52,6 +52,21 @@ Right now at OURA I'm:
 
 ---
 
+## 📌 Featured Project
+
+### [muzamil.fi — CV / Portfolio Website](https://github.com/muzahm01/cv)
+A dual-source CV site where a single LaTeX file (`cv.tex`) drives both the web build and the PDF. Next.js static export deployed to Cloudflare Pages via GitHub Actions.
+
+![Next.js](https://img.shields.io/badge/Next.js_14-000000?style=flat-square&logo=nextdotjs&logoColor=white)
+![React](https://img.shields.io/badge/React_18-61DAFB?style=flat-square&logo=react&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![Tailwind](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
+![Cloudflare Pages](https://img.shields.io/badge/Cloudflare_Pages-F38020?style=flat-square&logo=cloudflarepages&logoColor=white)
+
+🔗 **Live:** [muzamil.fi](https://muzamil.fi)
+
+---
+
 ## 📊 GitHub Stats
 
 <p align="center">
