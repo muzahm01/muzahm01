@@ -94,10 +94,22 @@ A dual-source CV site where a single LaTeX file (`cv.tex`) drives both the web b
 
 <div align="center">
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=muzahm01&theme=github_dark" alt="GitHub Stats"/>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=muzahm01&theme=github_dark"/>
+  <source media="(prefers-color-scheme: light)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=muzahm01&theme=default"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=muzahm01&theme=github_dark" alt="GitHub Stats"/>
+</picture>
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=muzahm01&theme=github_dark" alt="Top Languages"/>
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=muzahm01&theme=github_dark" alt="Most Used Languages"/>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=muzahm01&theme=github_dark"/>
+  <source media="(prefers-color-scheme: light)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=muzahm01&theme=default"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=muzahm01&theme=github_dark" alt="Top Languages"/>
+</picture>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=muzahm01&theme=github_dark"/>
+  <source media="(prefers-color-scheme: light)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=muzahm01&theme=default"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=muzahm01&theme=github_dark" alt="Most Used Languages"/>
+</picture>
 
 </div>
 
