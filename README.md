@@ -1,8 +1,6 @@
 <div align="center">
 
-# Hi, I'm Muzamil Ahmed &nbsp;👋
-
-### Senior Software Test Engineer @ OURA
+<img src="https://capsule-render.vercel.app/api?type=waving&color=4B5563&height=170&section=header&text=Muzamil%20Ahmed&fontColor=ffffff&fontSize=42&fontAlignY=36&desc=Senior%20Software%20Test%20Engineer%20%40%20OURA&descAlignY=58&descSize=18" alt="Muzamil Ahmed"/>
 
 **AI-Driven Test Automation & Quality Engineering**
 <br/>
@@ -95,21 +93,23 @@ A dual-source CV site where a single LaTeX file (`cv.tex`) drives both the web b
 <div align="center">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=muzahm01&theme=github_dark"/>
-  <source media="(prefers-color-scheme: light)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=muzahm01&theme=default"/>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=muzahm01&theme=github_dark" alt="GitHub Stats"/>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=muzahm01&show_icons=true&hide_border=true&count_private=true&theme=github_dark&title_color=9CA3AF&icon_color=9CA3AF"/>
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=muzahm01&show_icons=true&hide_border=true&count_private=true&theme=default&title_color=4B5563&icon_color=4B5563"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=muzahm01&show_icons=true&hide_border=true&count_private=true&theme=github_dark&title_color=9CA3AF&icon_color=9CA3AF" alt="GitHub Stats" height="165"/>
+</picture>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=muzahm01&layout=compact&hide_border=true&langs_count=8&theme=github_dark&title_color=9CA3AF"/>
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=muzahm01&layout=compact&hide_border=true&langs_count=8&theme=default&title_color=4B5563"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=muzahm01&layout=compact&hide_border=true&langs_count=8&theme=github_dark&title_color=9CA3AF" alt="Top Languages" height="165"/>
 </picture>
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=muzahm01&theme=github_dark"/>
-  <source media="(prefers-color-scheme: light)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=muzahm01&theme=default"/>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=muzahm01&theme=github_dark" alt="Top Languages"/>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=muzahm01&hide_border=true&theme=github-dark-blue&ring=9CA3AF&fire=9CA3AF&currStreakLabel=9CA3AF"/>
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=muzahm01&hide_border=true&theme=default&ring=4B5563&fire=4B5563&currStreakLabel=4B5563"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=muzahm01&hide_border=true&theme=github-dark-blue&ring=9CA3AF&fire=9CA3AF&currStreakLabel=9CA3AF" alt="GitHub Streak"/>
 </picture>
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=muzahm01&theme=github_dark"/>
-  <source media="(prefers-color-scheme: light)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=muzahm01&theme=default"/>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=muzahm01&theme=github_dark" alt="Most Used Languages"/>
-</picture>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=muzahm01&bg_color=00000000&color=6b7280&line=4B5563&point=4B5563&area=true&area_color=6b7280&hide_border=true&hide_title=true" alt="Contribution Activity"/>
 
 </div>
 
@@ -128,5 +128,7 @@ A dual-source CV site where a single LaTeX file (`cv.tex`) drives both the web b
 *M.Sc. Computer Software Engineering, University of Oulu*
 <br/>
 💬 &nbsp;Let's talk testing, automation, and AI in QA.
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=4B5563&height=120&section=footer" alt=""/>
 
 </div>
