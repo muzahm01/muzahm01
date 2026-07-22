@@ -6,7 +6,7 @@
 </p>
 
 <p align="center">
-  <a href="https://www.muzamil.fi"><img src="https://img.shields.io/badge/Portfolio-muzamil.fi-00FF41?style=for-the-badge&logo=vercel&logoColor=black" alt="Portfolio"/></a>
+  <a href="https://muzamil.fi"><img src="https://img.shields.io/badge/Portfolio-muzamil.fi-4B5563?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/></a>
   <a href="https://linkedin.com/in/muzamilahmed"><img src="https://img.shields.io/badge/LinkedIn-muzamilahmed-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
   <a href="mailto:muzkpr@gmail.com"><img src="https://img.shields.io/badge/Email-muzkpr@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
 </p>
@@ -52,26 +52,14 @@ Right now at OURA I'm:
 
 ---
 
-## 📌 Featured Project
-
-### [muzamil.fi — CV / Portfolio Website](https://github.com/muzahm01/cv)
-A dual-source CV site where a single LaTeX file (`cv.tex`) drives both the web build and the PDF. Next.js static export deployed to Cloudflare Pages via GitHub Actions.
-
-![Next.js](https://img.shields.io/badge/Next.js_14-000000?style=flat-square&logo=nextdotjs&logoColor=white)
-![React](https://img.shields.io/badge/React_18-61DAFB?style=flat-square&logo=react&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![Tailwind](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
-![Cloudflare Pages](https://img.shields.io/badge/Cloudflare_Pages-F38020?style=flat-square&logo=cloudflarepages&logoColor=white)
-
-🔗 **Live:** [www.muzamil.fi](https://www.muzamil.fi)
-
----
-
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=muzahm01&show_icons=true&hide_border=true&theme=github_dark&icon_color=00FF41&title_color=00FF41" alt="GitHub Stats"/>
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=muzahm01&layout=compact&hide_border=true&theme=github_dark&title_color=00FF41" alt="Top Languages"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=muzahm01&theme=github_dark" alt="GitHub Stats"/>
+</p>
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=muzahm01&theme=github_dark" alt="Top Languages"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=muzahm01&theme=github_dark" alt="Most Used Languages"/>
 </p>
 
 ---
