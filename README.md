@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=4B5563&height=170&section=header&text=Muzamil%20Ahmed&fontColor=ffffff&fontSize=42&fontAlignY=36&desc=Senior%20Software%20Test%20Engineer%20%40%20OURA&descAlignY=58&descSize=18" alt="Muzamil Ahmed"/>
 
-**AI-Driven Test Automation & Quality Engineering**
+<strong>AI-Driven Test Automation &amp; Quality Engineering</strong>
 <br/>
 📍 Oulu, Finland 🇫🇮
 
@@ -125,7 +125,7 @@ A dual-source CV site where a single LaTeX file (`cv.tex`) drives both the web b
 
 <div align="center">
 
-*M.Sc. Computer Software Engineering, University of Oulu*
+<em>M.Sc. Computer Software Engineering, University of Oulu</em>
 <br/>
 💬 &nbsp;Let's talk testing, automation, and AI in QA.
 
