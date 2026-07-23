@@ -8,7 +8,7 @@
 
 <br/>
 
-<a href="https://muzamil.fi" title="Portfolio — muzamil.fi"><img src="assets/portfolio.svg" width="42" height="42" alt="Portfolio"/></a>&nbsp;&nbsp;
+<a href="https://www.muzamil.fi" title="Website — www.muzamil.fi"><img src="assets/portfolio.svg" width="42" height="42" alt="Website"/></a>&nbsp;&nbsp;
 <a href="https://linkedin.com/in/muzamilahmed" title="LinkedIn — muzamilahmed"><img src="assets/linkedin.svg" width="42" height="42" alt="LinkedIn"/></a>&nbsp;&nbsp;
 <a href="mailto:muzkpr@gmail.com" title="Email — muzkpr@gmail.com"><img src="assets/email.svg" width="42" height="42" alt="Email"/></a>
 
