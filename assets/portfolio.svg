@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="48" height="48" viewBox="0 0 48 48" role="img" aria-label="Portfolio">
+  <circle cx="24" cy="24" r="24" fill="#000000"/>
+  <g transform="translate(13.8 13.8) scale(0.85)" fill="#ffffff">
+    <path d="M24 22.525H0l12-21.05 12 21.05z"/>
+  </g>
+</svg>

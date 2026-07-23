@@ -8,9 +8,9 @@
 
 <br/>
 
-<a href="https://muzamil.fi"><img src="https://img.shields.io/badge/Portfolio-muzamil.fi-4B5563?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/></a>&nbsp;
-<a href="https://linkedin.com/in/muzamilahmed"><img src="https://img.shields.io/badge/LinkedIn-muzamilahmed-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>&nbsp;
-<a href="mailto:muzkpr@gmail.com"><img src="https://img.shields.io/badge/Email-muzkpr@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+<a href="https://muzamil.fi" title="Portfolio — muzamil.fi"><img src="assets/portfolio.svg" width="42" height="42" alt="Portfolio"/></a>&nbsp;&nbsp;
+<a href="https://linkedin.com/in/muzamilahmed" title="LinkedIn — muzamilahmed"><img src="assets/linkedin.svg" width="42" height="42" alt="LinkedIn"/></a>&nbsp;&nbsp;
+<a href="mailto:muzkpr@gmail.com" title="Email — muzkpr@gmail.com"><img src="assets/email.svg" width="42" height="42" alt="Email"/></a>
 
 </div>
 
