@@ -72,7 +72,7 @@ Right now at **OURA** I'm:
 
 ## 📌 Featured Project
 
-### [muzamil.fi — CV / Portfolio Website](https://github.com/muzahm01/cv)
+### [muzamil.org — CV / Portfolio Website](https://github.com/muzahm01/cv)
 
 A dual-source CV site where a single LaTeX file (`cv.tex`) drives both the web build and the PDF. Next.js static export deployed to Cloudflare Pages via GitHub Actions.
 
@@ -84,7 +84,7 @@ A dual-source CV site where a single LaTeX file (`cv.tex`) drives both the web b
   <img src="https://img.shields.io/badge/Cloudflare_Pages-F38020?style=flat-square&logo=cloudflarepages&logoColor=white" alt="Cloudflare Pages"/>
 </p>
 
-🔗 &nbsp;**Live:** [muzamil.fi](https://muzamil.fi)
+🔗 &nbsp;**Live:** [muzamil.org](https://muzamil.org)
 
 <br/>
 
